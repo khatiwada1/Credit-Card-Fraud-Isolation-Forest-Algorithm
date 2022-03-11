@@ -11,6 +11,6 @@ Once the model is generated, I will then apply lesser known Isolation Forest Alg
 
 Fianlly I will make some comparision of the results and make some final comments.
 
-The data is found in a Kaggle webpage and can be downloaded using following link: https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/data
+The data is found in a Kaggle webpage and can be downloaded using following link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 This dataset contains the credit card transaction for 24 hours time period in September of 2013. The dataset contains only numerical values and this data is cleaned by banks and most of the features are masked for confidentaility. In Other word, This one is almost perfect data, where we dont need to worry much about the data wrangling and data manipulations.
